@@ -1,0 +1,47 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+.cont {
+    background-color: chocolate;
+    width: 200px;
+    height: 200px;
+    margin-top: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+.counter {
+    background-color:darkslategrey;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.counter h1 {
+    color :chocolate;
+    margin: 10px;
+}
+
+.addmin {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;   
+}
+
+.addmin a {
+    background-color: aliceblue;
+    width: 23px;
+    height: 23px;
+    display: flex;
+    justify-content: center;
+}
+ 
+
+.counter h1 {
+    display: flex;
+    justify-content: center;
+    background-color: #fff;
+}
